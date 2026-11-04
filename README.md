@@ -9,7 +9,7 @@ That page has the right file for your device and a short setup guide.
 | Device | How to get it |
 | --- | --- |
 | Windows till or PC (Windows 10 or 11, 64-bit) | Download the installer from the [latest release](https://github.com/Mukela12/kasenti-downloads/releases/latest) |
-| Android tablet (Android 7 or later) | Download the app (APK) from the [Android release](https://github.com/Mukela12/kasenti-downloads/releases/tag/v0.19.0-beta.1-android). It sells with no internet. |
+| Android tablet (Android 7 or later) | Download the app (APK) from the [Android release](https://github.com/Mukela12/kasenti-downloads/releases/tag/v0.19.1-beta.1-android). It sells with no internet. |
 | iPad, Mac or Chromebook | No download: open [app.kasenti.com](https://app.kasenti.com) and install it from the browser |
 
 ## Check your download
